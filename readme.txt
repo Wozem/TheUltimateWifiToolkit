@@ -24,5 +24,5 @@ Use responsibly, and always obtain permission before running network stress or d
 Also thanks chatgpt/claude.ai for helping me (:
 
 Credits: wozem
-Version 1.0
+Version 1.0 test
 
